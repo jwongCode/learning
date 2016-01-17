@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 im on part_2
+=======
+this is a test for a second fileAFLDJSPART2TSTING
+>>>>>>> part_2_tester
